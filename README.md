@@ -23,9 +23,9 @@
 
 
 
+The yolo-coco folder containing the weights and configs can downloaded from [here](https://drive.google.com/drive/folders/13hFkD8b5mudPCJi_BXrET4Z_9deGcIn6?usp=sharing)
 
 
-
-Project PPT can be accessed [here](https://docs.google.com/presentation/d/1jpgqNA2ofWd6KRlcTKofZCjMGiwOzM4-PlmOZEnZ0TI/edit#slide=id.p1).
+Project PPT can be accessed [here](https://docs.google.com/presentation/d/1jpgqNA2ofWd6KRlcTKofZCjMGiwOzM4-PlmOZEnZ0TI/edit?usp=sharing).
 
 Main Report for details can be accessed [here](https://drive.google.com/file/d/14njNRsQAqpcUQgyYMCGbJXLhVKYxqW40/view?usp=sharing).
